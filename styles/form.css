@@ -21,7 +21,7 @@ fieldset + fieldset {
 }
 
 .action-wrapper {
-    margin-top: 3rem;
+    padding-block: 3rem;
     display: flex;
     gap: 1rem;
 }
